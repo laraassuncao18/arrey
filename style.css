@@ -1,0 +1,11 @@
+th{
+    color: beige
+}
+div,label{color: beige
+
+}
+body{
+  background-image: linear-gradient(to right, rgb(214, 152, 213),rgb(14, 14, 14));
+    color: black;
+    text-align: center;
+}
